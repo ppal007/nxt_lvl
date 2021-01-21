@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">NXTLVL</string>
+
+    <string name="bio_txt">
+        i do art, i have constant contact with it. it\'s not boring, and is something i really enjoy. i get to know a lot of people, different artists and very interesting customers and it pays well.
+    </string>
+
+    <string-array name="gl_expand_list">
+        <item>FULL BODY</item>
+        <item>PHOTOREALSTIC</item>
+        <item>SYMBOLIC</item>
+    </string-array>
+
+</resources>
